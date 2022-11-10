@@ -1,0 +1,15 @@
+.header {
+  border: 1px solid #f0f0f0;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+
+.listItem:hover {
+  text-decoration: underline;
+}
